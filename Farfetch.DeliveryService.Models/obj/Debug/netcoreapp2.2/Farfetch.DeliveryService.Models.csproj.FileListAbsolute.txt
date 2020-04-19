@@ -1,0 +1,15 @@
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\bin\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.deps.json
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\bin\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.dll
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\bin\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.pdb
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.AssemblyInfoInputs.cache
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.AssemblyInfo.cs
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.dll
+C:\Projects\Farfetch\Albelli.Ecommerce.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.pdb
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\bin\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.deps.json
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\bin\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.dll
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\bin\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.pdb
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.AssemblyInfoInputs.cache
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.AssemblyInfo.cs
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.dll
+C:\Projects\Farfetch\Farfetch.DeliveryService.Models\obj\Debug\netcoreapp2.2\Farfetch.DeliveryService.Models.pdb
