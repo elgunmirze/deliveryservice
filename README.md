@@ -96,7 +96,7 @@ GET /api/v1/routes/route/time/{sourcepointid}/{destinationpointid}
 Getting route with lowest cost from source point to destination point
 GET /api/v1/routes/route/cost/{sourcepointid}/{destinationpointid}
 
-# How to start the solution ?
+# How to run the solution ?
 
 Steps:
 
